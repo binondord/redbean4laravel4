@@ -1,0 +1,28 @@
+{
+  "name": "redbean4laravel4",
+  "version": "4.2",
+  "authors": [
+    "Randy Binondo <randyb@zylun.com>"
+  ],
+  "description": "RedBeanPHP is easiest way to do ORM in PHP. It creates all tables and columns you need on-the-fly and it does not require a single line of configuration!",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "orm",
+    "php"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/binondord/redbean4laravel4",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "redbean":"https://github.com/gabordemooij/redbean.git#RedBeanPHP4KS"
+  }
+}

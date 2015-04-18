@@ -1,0 +1,13 @@
+{
+  "name": "redbean",
+  "homepage": "https://github.com/gabordemooij/redbean",
+  "_release": "003178ddb1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "RedBeanPHP4KS",
+    "commit": "003178ddb1d26e95717317efa2a925319c977a3c"
+  },
+  "_source": "https://github.com/gabordemooij/redbean.git",
+  "_target": "RedBeanPHP4KS",
+  "_originalSource": "https://github.com/gabordemooij/redbean.git"
+}
