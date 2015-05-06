@@ -1,11 +1,11 @@
 {
-    "name": "mamift/redbean4-laravel4",
+    "name": "binondord/redbean4-laravel4",
     "description": "A Laravel 4 implementation of Redbean 4.",
     "version": "1.0",
     "authors": [
         {
-            "name": "mamift",
-            "email": "mamift@gmail.com"
+            "name": "Randy Binondo",
+            "email": "binondord@gmail.com"
         }
     ],
     "license": "MIT",
